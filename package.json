@@ -1,0 +1,16 @@
+{
+  "name": "archax",
+  "version": "1.0.0",
+  "description": "Node.js backend developer test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "gc": "node --expose-gc gc.js"
+  },
+  "author": "John Benedict Geli",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
